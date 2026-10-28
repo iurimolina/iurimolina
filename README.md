@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Iuri Molina 👋</h1>
+<h1 align="center">Hi, I'm Iuri Molina 👋</h1>
 <p align="center">
-  <b>Visão Computacional · Detecção de Anomalias · Áudio & Imagem</b>
+  <b>Computer Vision · Anomaly Detection · Audio & Image</b>
 </p>
 
 <p align="center">
@@ -9,15 +9,15 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About me
 
-- 🔭 Trabalho com **visão computacional** e **detecção de anomalias** — às vezes os dois juntos
-- 🎧 Experiência com dados de **imagem** e **áudio**
-- 🎓 Bacharel em **Sistemas de Informação** — UFMS
-- 📊 Pós-graduação em **Big Data & Data Science** — XP Educação
-- 💬 Pode falar comigo sobre detecção de objetos, YOLO, anomalias em sinais e pipelines de ML
+- 🔭 I work with **computer vision** and **anomaly detection** — sometimes both together
+- 🎧 Experience with **image** and **audio** data
+- 🎓 B.Sc. in **Information Systems** — UFMS (Federal University of Mato Grosso do Sul)
+- 📊 Postgraduate degree in **Big Data & Data Science** — XP Educação
+- 💬 Ask me about object detection, YOLO, signal anomalies and ML pipelines
 
-### 🛠️ Stack
+### 🛠️ Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -33,15 +33,15 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-### 🚀 Projetos em destaque
+### 🚀 Featured projects
 
-| Projeto | Descrição | Tags |
+| Project | Description | Tags |
 |---|---|---|
-| [**YOLOLO**](https://github.com/iurimolina/YOLOLO) | Utilitários para datasets YOLO: conversão de bounding boxes ↔ polígonos e visualização de anotações | `visão computacional` `YOLO` |
-| [**windows-ocr**](https://github.com/iurimolina/windows-ocr) | Implementação simples de um "Windows Recall" usando OCR sobre capturas de tela | `OCR` `imagem` |
-| [**Human-Resources-Dataset**](https://github.com/iurimolina/Human-Resources-Dataset) | EDA investigando por que funcionários experientes deixam a empresa | `EDA` `pandas` |
-| [**PredicaoInvestidor**](https://github.com/iurimolina/PredicaoInvestidor) | Classificação de perfil de investidores com machine learning | `classificação` `sklearn` |
-| [**Breast-Cancer-Wisconsin**](https://github.com/iurimolina/Breast-Cancer-Wisconsin) | Análise exploratória do dataset Breast Cancer Wisconsin | `EDA` `saúde` |
-| [**FastAPI-Selenium**](https://github.com/iurimolina/FastAPI-Selenium) | API FastAPI com Selenium pronta para deploy (Docker / Railway) | `API` `scraping` |
+| [**YOLOLO**](https://github.com/iurimolina/YOLOLO) | Utilities for YOLO datasets: bounding box ↔ polygon conversion and annotation visualization | `computer vision` `YOLO` |
+| [**windows-ocr**](https://github.com/iurimolina/windows-ocr) | A simple "Windows Recall" implementation using OCR on screenshots | `OCR` `image` |
+| [**Human-Resources-Dataset**](https://github.com/iurimolina/Human-Resources-Dataset) | EDA investigating why experienced employees leave the company | `EDA` `pandas` |
+| [**PredicaoInvestidor**](https://github.com/iurimolina/PredicaoInvestidor) | Investor profile classification with machine learning | `classification` `sklearn` |
+| [**Breast-Cancer-Wisconsin**](https://github.com/iurimolina/Breast-Cancer-Wisconsin) | Exploratory analysis of the Breast Cancer Wisconsin dataset | `EDA` `healthcare` |
+| [**FastAPI-Selenium**](https://github.com/iurimolina/FastAPI-Selenium) | FastAPI + Selenium API ready to deploy (Docker / Railway) | `API` `scraping` |
 
-> 🔒 **Projetos privados:** *Detecção de Postes* (TCC — detecção de objetos em imagens) e *SIPA*. Disponíveis para apresentação sob demanda.
+> 🔒 **Private projects:** *Utility Pole Detection* (undergraduate thesis — object detection in images) and *SIPA*. Available for demo on request.
