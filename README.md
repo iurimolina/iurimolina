@@ -45,11 +45,3 @@
 | [**FastAPI-Selenium**](https://github.com/iurimolina/FastAPI-Selenium) | API FastAPI com Selenium pronta para deploy (Docker / Railway) | `API` `scraping` |
 
 > 🔒 **Projetos privados:** *Detecção de Postes* (TCC — detecção de objetos em imagens) e *SIPA*. Disponíveis para apresentação sob demanda.
-
-### 🎯 Áreas de atuação
-
-| 👁️ Visão Computacional | 🔍 Detecção de Anomalias | 🎧 Áudio |
-|---|---|---|
-| Detecção de objetos (YOLO) | Modelos não supervisionados | Extração de features (MFCC, espectrogramas) |
-| Segmentação e anotação de datasets | Autoencoders e métodos estatísticos | Classificação de sons |
-| OCR e processamento de imagem | Inspeção visual de defeitos | Anomalias em sinais acústicos |
