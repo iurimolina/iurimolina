@@ -46,11 +46,10 @@
 
 > 🔒 **Projetos privados:** *Detecção de Postes* (TCC — detecção de objetos em imagens) e *SIPA*. Disponíveis para apresentação sob demanda.
 
-### 📈 Estatísticas
+### 🎯 Áreas de atuação
 
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iurimolina&theme=tokyonight"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iurimolina&theme=tokyonight"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=iurimolina&theme=tokyonight&hide_border=true"/>
-</p>
+| 👁️ Visão Computacional | 🔍 Detecção de Anomalias | 🎧 Áudio |
+|---|---|---|
+| Detecção de objetos (YOLO) | Modelos não supervisionados | Extração de features (MFCC, espectrogramas) |
+| Segmentação e anotação de datasets | Autoencoders e métodos estatísticos | Classificação de sons |
+| OCR e processamento de imagem | Inspeção visual de defeitos | Anomalias em sinais acústicos |
